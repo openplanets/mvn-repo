@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Sep 01 11:47:13 CEST 2011
+http\://phaidon.ifs.tuwien.ac.at/hoppla/maven/releases/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://phaidon.ifs.tuwien.ac.at\:2828/archiva/repository/internal/.lastUpdated=1300436385649
+http\://repo1.maven.org/maven2/.lastUpdated=1314870433921
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://phaidon.ifs.tuwien.ac.at/hoppla/maven/releases/.lastUpdated=1300436379934
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1314870260501
+http\://plato.ifs.tuwien.ac.at\:2828/archiva/repository/internal/.lastUpdated=1314868414149
