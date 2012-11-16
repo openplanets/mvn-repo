@@ -3,8 +3,9 @@ mvn-repo
 
 Quick fix Maven repo for third party jars and prototype projects.
 
-To use add
+To use add:
 
+```xml
   <repositories>
   <repository>
 		<id>repo</id>
@@ -29,6 +30,7 @@ to your pom and reference the projects as:
 	<artifactId>jhove</artifactId>
 	<version>1.8</version>
 </dependency>
+```
 
 For more general instructions on use see http://blog.rueedlinger.ch/2012/09/use-github-as-maven-remote-repository
 
